@@ -1,0 +1,13 @@
+.body {
+    width: 100%vw;
+}
+.quadrado-maior {
+    width: 935px;
+    max-width: 100%vw;
+    background-color: aqua;
+}
+.topo {
+    background-color: brown;
+    max-height: 30px;
+
+}
